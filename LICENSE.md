@@ -1,4 +1,4 @@
-
+rare Tool for Obsidian for macOS - goal tracking and tags offers the most advanced Obsidian for macOS tool, with goal tracking and tags. Ideal for professionals.
 
 
 
